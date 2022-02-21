@@ -4,7 +4,7 @@ import ApiHotel from '../components/content/ApiHotel';
 function Tim() {
   return (
     <div className='Tim'>
-      <h1>Ini Adalah Timku</h1>
+      <h1>Ini Adalah Tim Aku ok</h1>
       <ApiHotel/>
     </div>
   );
