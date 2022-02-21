@@ -4,7 +4,7 @@ import Api from '../components/content/api/Api';
 function DataHotel() {
   return (
     <div className=''>
-      <h1>Data Hotel</h1>
+      <h1>Data Hotel maulana</h1>
       <Api/>
 
     </div>
