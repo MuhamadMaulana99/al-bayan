@@ -9,7 +9,7 @@ import SvgIcon from '@mui/material/SvgIcon';
 
 const style = {
   width: '100%',
-  maxWidth: 360,
+  maxWidth: 300,
   bgcolor: 'background.paper',
 };
 function HomeIcon(props) {
@@ -50,6 +50,7 @@ export default function Header() {
           <ListItem button>
             <ListItemText primary="About" />
           </ListItem>
+          <Divider />
     </List>
     </div>
   );
