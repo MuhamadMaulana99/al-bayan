@@ -13,4 +13,4 @@ const foo = [`budi`, `sita`, `ayu`];
   let array = [1.5, 2.26, 5.1, 12.33]
   const getArray = array.map(Math.ceil)
 //   var getArray = Math.ceil(array);
-  console.log(getArray);
+  console.log(getArray);x
