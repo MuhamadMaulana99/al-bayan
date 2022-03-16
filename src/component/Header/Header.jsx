@@ -41,27 +41,14 @@ export default function Header() {
       </div>
         <List sx={style} component="nav" aria-label="mailbox folders">
           <ListItem button>
-            <ListItemText primary="Inbox" />
+            <ListItemText primary="Home" />
           </ListItem>
           <Divider />
           <ListItem button divider>
-            <ListItemText primary="Drafts" />
+            <ListItemText primary="Contac" />
           </ListItem>
           <ListItem button>
-            <ListItemText primary="Trash" />
-          </ListItem>
-          <Divider light />
-          <ListItem button>
-            <ListItemText primary="Spam" />
-          </ListItem>
-          <ListItem button>
-            <ListItemText primary="Spam" />
-          </ListItem>
-          <ListItem button>
-            <ListItemText primary="Spam" />
-          </ListItem>
-          <ListItem button>
-            <ListItemText primary="Spam" />
+            <ListItemText primary="About" />
           </ListItem>
     </List>
     </div>
