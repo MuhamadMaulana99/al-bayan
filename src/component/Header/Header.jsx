@@ -4,8 +4,6 @@ import ListItem from '@mui/material/ListItem';
 import ListItemText from '@mui/material/ListItemText';
 import Divider from '@mui/material/Divider';
 import Box from '@mui/material/Box';
-import { pink } from '@mui/material/colors';
-import SvgIcon from '@mui/material/SvgIcon';
 import ContactsOutlinedIcon from '@mui/icons-material/ContactsOutlined';
 import HomeOutlinedIcon from '@mui/icons-material/HomeOutlined';
 import AccountCircleOutlinedIcon from '@mui/icons-material/AccountCircleOutlined';
@@ -16,24 +14,11 @@ const style = {
   bgcolor: 'background.paper',
 };
 export default function Header() {
-  const [open, setOpen] = React.useState(true);
 
-  const handleClick = () => {
-    setOpen(!open);
-  };
   return (
     <div>
       <div className='w-full bg-teal-100 h-16 flex justify-start items-center z-30 sticky top-0'>
           <h1 className='text-current pl-2'></h1>
-          <Box
-            sx={{
-                  '& > :not(style)': {
-                    m: 2,
-                  },
-            }}
-          >
-
-          </Box>
       </div>
         <List sx={style} component="nav" aria-label="mailbox folders">
           <ListItem className='flex items-center justify-center' button>

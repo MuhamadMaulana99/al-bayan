@@ -1,6 +1,7 @@
 import React from 'react'
 import Header from './Header/Header'
 import Getdua from './Getdua'
+import Todolist  from './Todo/Todolist'
 
 export default function Body() {
 
@@ -8,6 +9,7 @@ export default function Body() {
     <div>
         <Header/>
         {/* <Getdua/> */}
+        <Todolist/>
     </div>
   )
 }
