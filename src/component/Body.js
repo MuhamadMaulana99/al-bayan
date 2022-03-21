@@ -9,7 +9,7 @@ export default function Body() {
     <div>
         <Header/>
         {/* <Getdua/> */}
-        <Todolist/>
+        {/* <Todolist/> */}
     </div>
   )
 }
