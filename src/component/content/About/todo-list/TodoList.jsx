@@ -14,7 +14,7 @@ const TodoList = (props) => {
             props.dataTodos.map((todo) => {
                 return (
                     <div>
-                        <li className='list-group-item' style={{textDecoration : todo.kondisi ?  'line-through' : "none"}} key={todo.id}>{todo.title}</li>
+                        <li className='' style={{textDecoration : todo.kondisi ?  'line-through' : "none"}} key={todo.id}>{todo.title}</li>
                         <button className='border-2 border-indigo-300 rounded-lg bg-red-400'>Hapus</button>
                         {/* <button className='border-2 border-indigo-300 rounded-lg bg-red-400' onClick={() => handleRemove(todo.id)}>Hapus</button> */}
                     </div>

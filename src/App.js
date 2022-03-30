@@ -14,12 +14,9 @@ function App() {
         <ArticleRoundedIcon className="flex justify-end"/>
       </header>
       <div className="flex">
-        <nav className="w-52 bg-green-100 h-screen mr-4">
+        <nav className="w-52 bg-green-100 h-screen">
           <div className="w-52 bg-green-50 z-50 px-3">
             <ul className="">
-              <li>
-
-              </li>
               <li className="hover:bg-gray-200 active:bg-gray-200 focus:outline-none focus:ring focus:bg-gray-200 rounded-lg py-4
     ">
                 <Link className="pl-2" to="/">Home</Link>
