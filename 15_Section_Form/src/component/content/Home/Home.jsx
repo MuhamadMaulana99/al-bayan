@@ -1,5 +1,6 @@
 import React from "react"
 import { Routes, Route, Link } from "react-router-dom"
+import Notes from "../Form/Notes"
 import Halaman1 from "./page/Halaman1"
 import Halaman2 from "./page/Halaman2"
 import Keluar from "./page/Keluar"
