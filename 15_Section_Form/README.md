@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+Pengertian Form
+Berarti formulir dalam bahasa Indonesia, form adalah dokumen yang dilengkapi dengan spasi (juga disebut bidang atau penampung) yang digunakan untuk menulis atau memilih dan memasukkan data.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Dokumen-dokumen tersebut biasanya memiliki bagian-bagian tercetak yang sama, kecuali, mungkin, nomor seri ataupun digital.
 
-## Available Scripts
+Apa itu Form HTML?
+Kemudian, apa itu form HTML?
 
-In the project directory, you can run:
+Form HTML adalah jenis formulir yang tersedia dalam bentuk Hypertext Markup Language.
 
-### `npm start`
+Saat Anda melihat formulir kontak di halaman situ website, kotak input dan opsinya ditampilkan menggunakan markup formulir kontak HTML dan CSS. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Apa yang Anda sebut “pertanyaan” atau “bidang kosong” pada formulir cetak dikenal sebagai “placehorder”, “field” atau “input formulir” pada formulir web.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+HTML terlihat sama di halaman web mana pun sampai pemrograman lebih lanjut digunakan untuk mempersonalisasi tampilan. Cascading Style Sheets (CSS) menawarkan kemungkinan tak terbatas untuk menyesuaikan warna, font, dan ukuran elemen bentuk.
 
-### `npm test`
+apa itu yang digital form?
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Digital form merupakan jenis atau bentuk digital setara dengan dokumen kertas yang digunakan untuk mengumpulkan data.
 
-### `npm run build`
+Ya, ada berbagai macam dokumen yang dapat didigitalkan.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Diantaranya, kita dapat menyebutkan laporan pengeluaran, timesheet, laporan keselamatan dan, secara umum, semua jenis survei dan inspeksi.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Seperti yang sudah Kami singgung di atas, formulir terus digunakan untuk berbagai tujuan di semua industri, organisasi, bisnis atau perorangan.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Beberapa formulir memerlukan pemindahan ke lokasi lain di luar kantor Anda seperti inspeksi lapangan.
 
-### `npm run eject`
+Benar! Lebih mudah menggunakan formulir digital dalam situasi seperti itu karena menghindari duplikasi entry atau entri data dari formulir kertas ke komputer.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Bentuk digital benar-benar dapat mereproduksi semua elemen bentuk kertas, seperti menulis teks, menggambar sketsa, mengisi kotak centang, atau menambahkan tanda tangan (digital signature).
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Terlebih lagi, formulir digital terbilang lebih bagus dan kuat tentunya karena memungkinkan Anda untuk memasukkan opsi yang tidak ada dengan formulir kertas.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Manfaat Menggunakan Form atau Formulir dan Cara Kerjanya
+Berkenaan dengan pembahasan pengertian form (formulir) di atas, dalam subbagian ini Kami juga akan menjelaskan terkait manfaat menggunakan serta cara kerjanya.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Secara umum, manfaat formulir bentuk kertas atau digital yaitu untuk mempermudah pengumpulan data.
 
-## Learn More
+Perlu Kami tekankan disini bahwa paper atau kertas tidak diragukan lagi merupakan media yang terbatas, dan mereka juga sudah ketinggalan zaman.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Formulir bentuk paper (kertas) juga sulit diakses dan mudah hilang bersama dengan semua informasi yang ada di kertas tersebut.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Ya! Oleh karena itu, pengumpulan data atau data collection di atas kertas membutuhkan biaya dan waktu yang lama.
 
-### Code Splitting
+Selain itu, aplikasi seluler (mobile application) telah menjadi semakin penting dalam kehidupan kita sehari-hari dan dalam bisnis.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Oleh karena itu, banyak bisnis telah menyadari bahwa menerapkan formulir dalam bentuk digital ke dalam proses bisnis mereka secara signifikan meningkatkan kualitas data dan alur kerja mereka.
 
-### Analyzing the Bundle Size
+Di bawah ini adalah beberapa manfaat yang dapat kalian dapatkan dengan formulir, khususnya bentun form digital:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Mengambil foto dari perangkat seluler Anda dan tambahkan ke report atau laporan Anda.
+Secara otomatis mendeteksi posisi geografis Anda dan menunjukkan data atau alamat GPS di laporan Anda.
+Menawarkan daftar lengkap dengan opsi (pilihan) yang memungkinkan pengguna yang mengisi formulir digital di lapangan untuk memilih jawabannya. Ya, daftar ini mungkin berisi elemen tambahan yang memungkinkan Anda untuk secara otomatis mengisi beberapa bidang formulir digital Anda secara bersamaan.
+Bidang formulir yang dinamis, yaitu, menurut jawaban yang telah diisi sebelumnya, bidang formulir lainnya muncul atau menghilang.
+Formulir dalam bentuk digital juga dapat merekam pesan suara sertaunakan opsi dikte suara yang tersedia di sebagian besar smartphone atau ponsel cerdas.
+Melakukan scan atau memindai kode batang dan tag NFC.
+Dapat membuat dan menampilkan tabel yang memungkinkan memasukkan serangkaian informasi beberapa kali.
+Dapat dikonfigurasikan dengan perhitungan otomatis.
+Dapat membuat bidang tertentu dari formulir wajib untuk memastikan bahwa semua informasi yang diperlukan ditangkap.
+Dapat menyimpan dokumen langsung ke server atau ke akun penyedia layanan penyimpanan (seperti Google Drive, One Drive atau Dropbox) Anda.
+Dalam melakukan pengirimak e-mail secara instan dengan data formulir yang baru saja Anda isi.
+Baca Juga :  Pengertian WINS (Windows Internet Naming Service) dan Cara Kerjanya
+Lalu, untuk cara kerjanya sendiri sebelum kita dapat membagikan form (formulir), yaitu sebagai berikut:
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Pembuatan; Pertama-tama mulai dengan membuat form Anda, baik jenis paper (kertas) atau digital, Kami menyarankan Anda melakukannya dari komputer Anda. Anda dapat dengan mudah menambahkan opsi yang Anda inginkan untuk mendesain formulir yang disesuaikan dengan sempurna untuk kebutuhan aktivitas Anda.
+Pengisian ; Setelah formulir dibuat dan disimpan atau dicetak, Anda dapat mengisinya secara langsung atau dari perangkat seluler apa pun (untuk jenis digital).
+Laporan; Terakhir yaitu adalah report atau laporan. Setelah form Anda dibuat dan diisi, sekarang formulir Anda sudah menyimpan data. Khusus untuk jenis digital, kalian dapat mengekspor dan memulihkan data yang diambil dan seringkali mereka akan tersedia secara instan di platform online

@@ -1,70 +1,13 @@
-# Getting Started with Create React App
+API
+API (Application Programming Interface) pada dasarnya adalah sekumpulan data yang menggunakan format JSON. Di dalam file JSON kita dapat melihat field dan value secara spesifik dan dapat mengambil keseluruhan ataupun beberapa data yang kita perlukan saja. Pada tutorial ini kita akan belajar membuat project untuk menampilkan informasi data user di beberapa negara yang datanya di ambil dari API random user generator.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Feeding Data Dynamic dari API
+Sebagian besar aplikasi web modern menggunakan Protokol REST untuk berkomunikasi satu sama lain. Untuk mencapai ini, data dikirim sebagai JSON (Javascript Object Notation) ke API.
 
-## Available Scripts
+Pada gilirannya, API mengembalikan muatan JSON yang bisa berupa data statis atau dinamis. Aplikasi kita akan mengurai dan menampilkan data dengan cara yang rapi, membuatnya menarik bagi pengguna.
 
-In the project directory, you can run:
+Apa Itu Redux?
+Redux adalah wadah State atau Props yang dapat diimplement untuk aplikasi JavaScript. Ini membantu Anda menulis aplikasi yang berperilaku konsisten, berjalan di lingkungan yang berbeda (klien, server), dan mudah untuk diuji. Sederhananya, Redux adalah alat manajemen state yang bersifay Global.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Kenapa Kita Harus Memakai Redux?
+Jadi misal kamu membuat sebuah project besar, entah itu menggunakan React atau React Native dan kamu memiliki ratusan Komponen aplikasi, dan setiap komponen tersebut memiliki data (State) yang digunakan di banyaka Komponen, akan sangat komplex jika kamu mengrim state langsung dari komponen dan aplikasi atau project yang kamu buat akan sangat untuk di baca dan di testing. Nah kerane itu munculah Redux jadi dengan Redux semua State/Data/Props/Function dapat di gunakan di semua Class/Component/Screen yang kamu buat.
