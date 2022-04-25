@@ -1,0 +1,49 @@
+{
+    "data": {
+      "anggota": [
+        {
+          "id": 5,
+          "nama": "budi"
+        },
+        {
+          "id": 6,
+          "nama": "sita"
+        },
+        {
+          "id": 7,
+          "nama": "angga"
+        }
+      ],
+      "keterangan": [
+        {
+          "id": 1,
+          "id_anggota": 1,
+          "nilai": 85,
+          "pelajaran": "sistem informasi",
+          "status": true
+        },
+        {
+          "id": 2,
+          "id_anggota": 1,
+          "nilai": 65,
+          "pelajaran": "reactjs",
+          "status": false
+        },
+        {
+          "id": 3,
+          "id_anggota": 2,
+          "nilai": 90,
+          "pelajaran": "sistem informasi",
+          "status": true
+        },
+        {
+          "id": 4,
+          "id_anggota": 2,
+          "nilai": 50,
+          "pelajaran": "reactjs",
+          "status": false
+        }
+      ],
+      "keterangan_by_pk": null
+    }
+  }

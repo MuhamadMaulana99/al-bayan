@@ -1,0 +1,10 @@
+{
+  "data": {
+    "insert_anggota": {
+      "affected_rows": 1
+    },
+    "insert_keterangan": {
+      "affected_rows": 1
+    }
+  }
+}
